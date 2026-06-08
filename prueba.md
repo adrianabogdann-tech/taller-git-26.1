@@ -2,4 +2,4 @@
 
 
 
-## hola seguda dia del taller
+## hola segunda dia del taller
